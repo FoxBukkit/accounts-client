@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mojang</groupId>
 	<artifactId>AccountsClient</artifactId>
-	<version>latest</version>
+	<version>1.0-SNAPSHOT</version>
 	<build>
 		<plugins>
 			<plugin>
