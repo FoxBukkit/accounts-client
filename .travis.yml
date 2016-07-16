@@ -10,5 +10,5 @@ script: mvn deploy -DaltDeploymentRepository=deployment-repo-id::default::https:
   --settings settings.bin
 env:
   global:
-  - secure: YnZpZ16i/3jvjmsP3aThsy8tV4cpRMAuT2Ju6YjyLP2eK3aobh4czG0KGFMxPr09U7frJ2RbOS0lHk7FdZlERZZMHd+8MIHr6o7vXOItA7ul41STw5kGdUELVlqsdOW5xYf4Sys9J3qSrM9NrZ1ZX83aQCzXUaRc/lUX/ITWBe4=
-  - secure: VH/8Vu8Rf5Zjgjox7Bw7h9NrvCm50CLwLz2Mg02ogriHnWKJ+3ZXxKXCWZPCiZCNkSPU+aHxL7RLAVQxSvZN8ItZh24zmct9qQ+JKLw4jm1LU3ovEYjPNcjORJqC8CJQ8Q9XqxG/4atrbzNr7NG4o45YRUjbHP01NPZ+NUKDC8c=
+  - secure: Mkdol5FXT7NDK7zhvrJ5NtIysyPIlIj1npHX2UiniYxQ9TNa+tAdlEbXMUMpquGmWA0r9Z5BNBVVdyaSPT37hn1kOCas3FLSG4bo7+YT8lXoGGxHq2cEkE9X7Av6sy05Hi0MTk6juvSUdUfnyCzxP09W+OoeEr7qingNIX53eus=
+  - secure: V528+0r6dPnponyUlabDFOm0pY5mOnrJQwubWERsdUwgpFfOKzTVI2MWZgnMy1lKhNj+gifFlOL6J8ldmdYVAzoOs3KgQbd9NxPaMSoaHGUKIXiFKbfwwwVj6S54UH4kiFB3EWeO9H/5ZtweTtrVtL/7A1KEPq9zIr4NbN6hJJw=
