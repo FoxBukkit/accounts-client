@@ -13,4 +13,5 @@ script: mvn deploy -DaltDeploymentRepository=deployment-repo-id::default::https:
   --settings settings.bin
 env:
   global:
-    secure: I3qD6VH7LT3oxMUyvfcPIHPTyvbF4863YuUIkYyl84++z+FSNg0Zn7yMdEWevwEvGDVSL6kU8n+DXVnGu6CC0sr4kJyPVdE0F3A8CBduKGbn9MyKYEsPlTdBKNcS/IGzK9a1b2u3puAXjeJ572hvhw+VlK7nNOzjpqTGDCegJKQ=
+  - secure: CXqq67CxiYx4ji0UFESyx8dfhpIQXBTJv5kyQcrteOGXhajzd1SUwv5Wi2NdaQgjijfoGZ3lV3KnIxVVybtAM7Gk4jtWcH8McE5QG3biHeru91A9BNA+6+jhQ69AA8mrKPBeG1jGb0X+4FzOsYISY3sECSEz/xQq9PxOQ2EIuDY=
+  - secure: bMMSt/lG1Bdsi4xcJsBSAL6Fq2SCFD3/dBTMRPS4NYnLJSjKYcf/KteOBU9gvZmx6QCUETnRp8ecgyxn74MJ0e1UX9MhPLvIfF7J5h+OYy0GhBdC9ahM0YsSOy9qTDeIF4EXAWmlJjsANVtc9ACLfu1gi9DTPiuPLBGTNwkFf8U=
